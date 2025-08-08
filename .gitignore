@@ -6,3 +6,4 @@ build/
 .venv/
 .cache/
 .pytest_cache/
+*.tmp
